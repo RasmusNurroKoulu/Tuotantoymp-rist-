@@ -1,1 +1,4 @@
-# Tuotantoymp-rist-
+- Nettisivu, jossa lukee hello world
+- Lurem palm kanssa lukee pienellä
+- Footeri löytyy kanssa
+- Punaninen tausta ja sininen texti
